@@ -5,3 +5,5 @@ change 3 added
 change 4 added by me in branch bug123 for bug123
 
 change 5 added by my colleauge can create conflict lets see
+
+change 7 my colleauge has added in same file code for feature req this creates conflicts in file1

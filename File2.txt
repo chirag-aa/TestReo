@@ -1,1 +1,3 @@
 making changes in file 2 on branch revise
+
+my fellow mate making changes in file 2 on branch master i dont think of conflict

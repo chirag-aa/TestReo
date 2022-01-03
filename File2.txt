@@ -1,3 +1,5 @@
 making changes in file 2 on branch revise
 
 my fellow mate making changes in file 2 on branch master i dont think of conflict
+
+i am making change in file 2 on branch conflict will 3 way merge them with conflict

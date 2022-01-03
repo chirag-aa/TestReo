@@ -22,3 +22,5 @@ i am maiking a change on idea branch for rebase with conflict in file1
 making changes in file1 on idea branch
 
 now my fellow mate making changes in file1 for rebase and merge without conflict
+
+change for stashing

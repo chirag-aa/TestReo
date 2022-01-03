@@ -19,4 +19,8 @@ will make changes in file 2 for rebase with conflict on branch conflictrebase
 making changes will not commit and checkout to another branch use case of stash
 making changes which will go in stash
 
+
 changes made by me on file2 on branch local master lets see conflict
+
+making changes in file2 on remote repo by fello mate
+

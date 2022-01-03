@@ -10,4 +10,10 @@ i am making change in file 2 on branch conflict will 3 way merge them with confl
 
 3wayis done with and without both lets see rebase without conflict on branch rebaseb by me my fellow will make changes on file1 no worries
 
+
 my fellow making changes on master in file2 creates conflict will use rebase with conflict lets see
+
+ 
+
+will make changes in file 2 for rebase with conflict on branch conflictrebase
+

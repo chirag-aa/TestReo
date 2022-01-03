@@ -15,4 +15,6 @@ making changes in file1 on branch idea for rebase
 
 making changes in file 1 on branch master for rebase
 
-i am making change in branch master for rebase with conflict
+i am making change in branch master for rebase with conflic
+
+i am maiking a change on idea branch for rebase with conflict in file1

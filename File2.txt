@@ -18,3 +18,5 @@ my fellow making changes on master in file2 creates conflict will use rebase wit
 will make changes in file 2 for rebase with conflict on branch conflictrebase
 making changes will not commit and checkout to another branch use case of stash
 making changes which will go in stash
+
+changes made by me on file2 on branch local master lets see conflict

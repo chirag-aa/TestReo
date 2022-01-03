@@ -11,3 +11,6 @@ change 7 my colleauge has added in same file code for feature req this creates c
 
 change 6 added by branch bug2 in file1 for resolving bug2 then conflict and then rebasing
 
+making changes in file1 on branch idea for rebase
+
+making changes in file 1 on branch master for rebase

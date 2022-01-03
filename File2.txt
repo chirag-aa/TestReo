@@ -8,3 +8,4 @@ my fellow making changes in master now on file2 this will create conflit will re
 
 i am making change in file 2 on branch conflict will 3 way merge them with conflict
 
+3wayis done with and without both lets see rebase without conflict on branch rebaseb by me my fellow will make changes on file1 no worries
